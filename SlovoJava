@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class Vvedennja {
+
+	public static void main(String[] args) {
+		Scanner mijSkaner = new Scanner(System.in);
+	
+		
+			char mi = 'j';
+		
+			if (mi == 'j')
+		
+		{
+			System.out.println("    J   ");
+			System.out.println("    J   ");
+			System.out.println("     J  ");
+			System.out.println(" J   J  ");
+			System.out.println("  JJJ   ");
+		
+		}
+	}
+}
+	
