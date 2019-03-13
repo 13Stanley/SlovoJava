@@ -3,10 +3,11 @@ import java.util.Scanner;
 public class Vvedennja {
 
 	public static void main(String[] args) {
-		Scanner mijSkaner = new Scanner(System.in);
-	
-		
-			char mi = 'j';
+		Scanner Ska = new Scanner(System.in);
+		System.out.println("введіть слово java");
+		String string = s.nextLine();
+			
+				char mi = 'j';
 		
 			if (mi == 'j')
 		
